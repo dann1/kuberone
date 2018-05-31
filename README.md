@@ -1,0 +1,2 @@
+# kuberone
+kubernetes opennebula setup
